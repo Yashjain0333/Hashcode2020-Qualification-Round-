@@ -38,7 +38,7 @@ The solution follows these steps:
    2. Then after calculating the score, add some penulty for the signup time the library takes.
    
    <p align="center">
-   <img src="https://latex.codecogs.com/svg.latex?\Large&space;library\_score=sum\_of\_all\_books-signup\_time*penulty"
+   <img src="https://latex.codecogs.com/svg.latex?\Large&space;library\_score=sum\_of\_all\_books-signup*penulty"
    </p>
    
       ### Penulty for Signup time
