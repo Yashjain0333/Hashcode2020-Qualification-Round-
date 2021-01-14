@@ -10,12 +10,12 @@ This is my solution for the [Google Hashcode 2020](https://codingcompetitions.wi
 
 | File  | Score |
 | ------------- | ------------- |
-| a_example ([input](inputs/a.txt) \| [output](outputs/a(out).txt)) | 21 |
-| b_read_on ([input](inputs/b.txt) \| [output](outputs/b(out).txt)) | 5,822,900 |
-| c_incunabula ([input](inputs/c.txt) \| [output](outputs/c(out).txt)) | 5,483,590 |
-| d_tough_choices ([input](inputs/d.txt) \| [output](outputs/d(out).txt)) | 5,028,530 |
-| e_so_many_books ([input](inputs/e.txt) \| [output](outputs/e(out).txt)) | 5,399,965 |
-| f_libraries_of_the_world ([input](inputs/f.txt) \| [output](outputs/f(out).txt)) | 5,322,929 |
+| a_example ([input](Inputs/a.txt) \| [output](Outputs/a(out).txt)) | 21 |
+| b_read_on ([input](Inputs/b.txt) \| [output](Outputs/b(out).txt)) | 5,822,900 |
+| c_incunabula ([input](Inputs/c.txt) \| [output](Outputs/c(out).txt)) | 5,483,590 |
+| d_tough_choices ([input](Inputs/d.txt) \| [output](Outputs/d(out).txt)) | 5,028,530 |
+| e_so_many_books ([input](Inputs/e.txt) \| [output](Outputs/e(out).txt)) | 5,399,965 |
+| f_libraries_of_the_world ([input](Inputs/f.txt) \| [output](Outputs/f(out).txt)) | 5,322,929 |
 | **Total** | **27,057,935** |
 
 
