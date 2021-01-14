@@ -2,7 +2,7 @@
 This is my solution for the [Google Hashcode 2020](https://codingcompetitions.withgoogle.com/hashcode) qualification round problem with libraries and books. Although I did not participate in the round and rather did this problem for practice.
 
 <p align="center">
-<img src="/images/hashcode.jpg" alt="Hashcode Logo" width="500"/>
+<img src="/Images/hashcode.jpg" alt="Hashcode Logo" width="500"/>
 </p>
 
 
@@ -23,7 +23,7 @@ This is my solution for the [Google Hashcode 2020](https://codingcompetitions.wi
 
 You can find the pdf with the problem [here](hashcode_2020_online_qualification_round.pdf).
 
-<img src="/images/hashcode_2020_problem.png" alt="Hashcode 2020 problem" width="500"/>
+<img src="/Images/hashcode_2020_problem.png" alt="Hashcode 2020 problem" width="500"/>
 
 
 ## My solution
