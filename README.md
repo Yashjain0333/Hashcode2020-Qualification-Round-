@@ -1,5 +1,5 @@
 # Hashcode 2020 solution (Qualification round)
-This is my solution for the [Google Hashcode 2020](https://codingcompetitions.withgoogle.com/hashcode) qualification round problem with libraries and books. Although I did not participate in the round and rather did this problem for practice.
+This is my solution for the [Google Hashcode 2020](https://codingcompetitions.withgoogle.com/hashcode) qualification round problem with libraries and books. Although I did not participate in the round but rather did this problem for practice.
 
 <p align="center">
 <img src="/Images/hashcode.jpg" alt="Hashcode Logo" width="500"/>
