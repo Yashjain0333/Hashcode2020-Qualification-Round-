@@ -41,16 +41,16 @@ The solution follows these steps:
    <img src="https://latex.codecogs.com/svg.latex?\Large&space;library\_score=sum\_of\_all\_books-penulty"
    </p>
    
-         ### Penulty for Signup time
+      ### Penulty for Signup time
 
-         | File  | Penulty |
-         | ------------- | ------------- |
-         | a_example | 1000 |
-         | b_read_on | 1000 |
-         | c_incunabula | 1100 |
-         | d_tough_choices | 1100 |
-         | e_so_many_books | 15000 |
-         | f_libraries_of_the_world | 3000 |
+      | File  | Penulty |
+      | ------------- | ------------- |
+      | a_example | 1000 |
+      | b_read_on | 1000 |
+      | c_incunabula | 1100 |
+      | d_tough_choices | 1100 |
+      | e_so_many_books | 15000 |
+      | f_libraries_of_the_world | 3000 |
 
 5. Create the output.
 6. Also calculate the score.
